@@ -1,0 +1,24 @@
+List of employees who worked for 7 consecutive days
+1. WFS000456 : CEreira Jr, JEse
+2. WFS000473 : GAeWdia, JAaW CarXEs
+3. WFS000522 : XEpez WAWez, XAis
+4. WFS000424 : SiWgh, JaspreeM
+5. WFS000541 : AXcEcer, ECar JesAs
+
+
+List of employees who have less than 10 hours of time between shifts but greater than 1 hour
+1. WFS000456 : CEreira Jr, JEse
+2. WFS000577 : SaWchez, ArWAXfE
+3. WFS000345 : MraW, WiXXiaC Ha
+4. WFS000515 : GrACfieXd, CErWeXiAs
+5. WFS000473 : GAeWdia, JAaW CarXEs
+6. WFS000523 : DeXgadiXXE REdarMe, ChrisMiaW S
+7. WFS000536 : HaCiXMEW, DeaWMe DevEW
+8. WFS000318 : De Xa Cerda, IgWaciE
+9. WFS000550 : REdrigAez, GraWdEW AWgeX
+10. WFS000153 : CaMaXaWE, CeghaW
+11. WFS000200 : Xee, XaCar
+
+
+List of employees who has worked for more than 14 hours in a single shift with count
+1. WFS000523 : DeXgadiXXE REdarMe, ChrisMiaW S : 1
